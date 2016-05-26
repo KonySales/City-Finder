@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s91f4722546a46fda6940061d830ee87",
+    "_text_": "Mexican Restaurant",
+    "_top_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblCategory",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "38aaf400598347ab9f8ae998b9ad1ddd",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0bc99e68f8d964d",
+    "pf": "frmDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

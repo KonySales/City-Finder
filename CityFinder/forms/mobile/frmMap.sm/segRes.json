@@ -1,0 +1,338 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "Label0bf978aa4152548": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "."
+            },
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rating4.png"
+            },
+            "imgRestaurant": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "restaurant04.png"
+            },
+            "lblAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Address"
+            },
+            "lblAddressValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3248 18th St San Francisco, CA 94110"
+            },
+            "lblCategory": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mexican Cuisine"
+            },
+            "lblDays": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mon-Sun "
+            },
+            "lblDistance": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 mi away"
+            },
+            "lblHours": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hours"
+            },
+            "lblOpenClose": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "OPEN"
+            },
+            "lblOpenTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7:00 am - 8:00 pm"
+            },
+            "lblRestaurantName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gallardo's"
+            }
+        },
+        {
+            "Label0bf978aa4152548": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "."
+            },
+            "imgRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "rating4.png"
+            },
+            "imgRestaurant": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "restaurant03.png"
+            },
+            "lblAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Address"
+            },
+            "lblAddressValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3248 18th St San Francisco, CA 94133"
+            },
+            "lblCategory": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mexican Cuisine"
+            },
+            "lblDays": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mon-Sun"
+            },
+            "lblDistance": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.5 mi away"
+            },
+            "lblHours": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hours"
+            },
+            "lblOpenClose": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "OPEN"
+            },
+            "lblOpenTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5:00 pm - 11:00 pm"
+            },
+            "lblRestaurantName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Don Pistos"
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seg2Normal",
+    "_top_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.AndroidSegment2Property"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": "01",
+    "focusedindex": null,
+    "focuseditem": {
+        "Label0bf978aa4152548": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "."
+        },
+        "imgRating": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "rating4.png"
+        },
+        "imgRestaurant": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "restaurant04.png"
+        },
+        "lblAddress": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Address"
+        },
+        "lblAddressValue": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "3248 18th St San Francisco, CA 94110"
+        },
+        "lblCategory": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Mexican Cuisine"
+        },
+        "lblDays": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Mon-Sun "
+        },
+        "lblDistance": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1.5 mi away"
+        },
+        "lblHours": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Hours"
+        },
+        "lblOpenClose": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "OPEN"
+        },
+        "lblOpenTime": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "7:00 am - 8:00 pm"
+        },
+        "lblRestaurantName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Gallardo's"
+        }
+    },
+    "generatedtemplate": "72c7cd3c034a489cbef2ae5b0c90107c",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segRes",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.IPhoneSegment2Property",
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "4bfa134857f7481cb8d897b9a5da7922",
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_18e604bb98f74831a9161b06e169ec05",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainer0273977ac92244b",
+    "pf": "frmMap",
+    "retainselection": true,
+    "rowTemplateId": "72c7cd3c034a489cbef2ae5b0c90107c",
+    "rowcounter": 1,
+    "rowfocusskin": "sf5d92266ec9415c80e4e5edbb3c1ac4",
+    "rowskin": "s8b44cc7e2634a13a5047b814e48e5fe",
+    "rowtemplate": "CopyFBox0078d58a83bb442",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sc19fbe361484e1b87c850756b98ea44",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": [
+        0,
+        0
+    ],
+    "selectedindices": null,
+    "selecteditems": {
+        "Label0bf978aa4152548": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "."
+        },
+        "imgRating": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "rating4.png"
+        },
+        "imgRestaurant": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": "restaurant04.png"
+        },
+        "lblAddress": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Address"
+        },
+        "lblAddressValue": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "3248 18th St San Francisco, CA 94110"
+        },
+        "lblCategory": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Mexican Cuisine"
+        },
+        "lblDays": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Mon-Sun "
+        },
+        "lblDistance": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "1.5 mi away"
+        },
+        "lblHours": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Hours"
+        },
+        "lblOpenClose": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "OPEN"
+        },
+        "lblOpenTime": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "7:00 am - 8:00 pm"
+        },
+        "lblRestaurantName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Gallardo's"
+        }
+    },
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 713,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer084ed49dd451645": "CopyFlexContainer084ed49dd451645",
+        "CopyFlexContainer0ca7863830dcd47": "CopyFlexContainer0ca7863830dcd47",
+        "CopyFlexContainer0d7332215b0c44b": "CopyFlexContainer0d7332215b0c44b",
+        "FlexContainer03f1b3f46f35c4c": "FlexContainer03f1b3f46f35c4c",
+        "FlexContainer07ece49a0225b44": "FlexContainer07ece49a0225b44",
+        "FlexContainer0bc99e68f8d964d": "FlexContainer0bc99e68f8d964d",
+        "Label0bf978aa4152548": "Label0bf978aa4152548",
+        "imgRating": "imgRating",
+        "imgRestaurant": "imgRestaurant",
+        "lblAddress": "lblAddress",
+        "lblAddressValue": "lblAddressValue",
+        "lblCategory": "lblCategory",
+        "lblDays": "lblDays",
+        "lblDistance": "lblDistance",
+        "lblHours": "lblHours",
+        "lblOpenClose": "lblOpenClose",
+        "lblOpenTime": "lblOpenTime",
+        "lblRestaurantName": "lblRestaurantName"
+    },
+    "zindex": 1
+}

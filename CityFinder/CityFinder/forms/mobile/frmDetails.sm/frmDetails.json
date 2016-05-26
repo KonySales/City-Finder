@@ -1,0 +1,115 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s988b3c6ac1e4384aab473a196b22358",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.AndroidScrollFlexFormProperty",
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexOuter"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone6",
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "id": "frmDetails",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 3,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": false
+            }
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "66587429ca994753b41b02336312dd37",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "prevDevice": "GalaxyS4",
+    "prevPlatform": "android",
+    "retainscrollposition": true,
+    "shellCSS": "iOS_iPhone6",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAAndroidScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPABBScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAIPhoneScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAWinPhone8ScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "titleBarSkin": "sf85a92e30be43efa345e3cf76b5ca2d",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windowsoftinputmode": 2,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.WinPhone8ScrollFlexFormProperty",
+        "needAppMenu": false
+    }
+}

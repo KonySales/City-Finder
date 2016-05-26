@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seb5e93def4f4f73b305b2c72cc4bcc4",
+    "_src_": "gallardoimg_details.png",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmDetails",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "img",
+    "imagescalemode": 0,
+    "imagewhenfailed": "gallardoimg_details.png",
+    "imagewhiledownloading": "loading01.png",
+    "info": null,
+    "invokedProperty": "imageWhileDownloading",
+    "isvisible": true,
+    "kuid": "1e6ffc7f2df84c4fba49a22a475be8ac",
+    "name": "kony.ui.Image2",
+    "parent": "flexOuter",
+    "pf": "frmDetails",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

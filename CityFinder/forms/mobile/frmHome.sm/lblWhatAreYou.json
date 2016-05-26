@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5d4fb3e3b6b4fe79ef86933d7946f90",
+    "_text_": "WHAT ARE YOU LOOKING FOR?",
+    "_top_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "68.00%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblWhatAreYou",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1f73198a60854169bb4c0c389afc92e6",
+    "name": "kony.ui.Label",
+    "parent": "flxMain",
+    "pf": "frmHome",
+    "tooltip": "",
+    "wType": "Label"
+}

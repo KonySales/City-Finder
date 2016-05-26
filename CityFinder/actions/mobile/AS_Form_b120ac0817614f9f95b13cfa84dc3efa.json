@@ -1,0 +1,13 @@
+{
+    "AS_Form_b120ac0817614f9f95b13cfa84dc3efa": {
+        "id": "AS_Form_b120ac0817614f9f95b13cfa84dc3efa",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__d4c7f053fd124ee29622c4fdef4be5f7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//setLocations()\nfrmMap.segRes.pageSkin=\"segPageSkin\";\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

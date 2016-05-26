@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "4.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s308ec9546c2454081cebe31c0b76d78",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s308ec9546c2454081cebe31c0b76d78",
+    "id": "btnBack",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3d8b7cc56a7d4c3a9559afc460ba0320",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f35daa8d6bea4af7b55a917bc63416bd",
+    "parent": "flexOuter",
+    "pf": "frmDetails",
+    "wType": "Button",
+    "zindex": 1200
+}

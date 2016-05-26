@@ -1,0 +1,20 @@
+{
+    "AS_Map_192f060d962b4976848ad14fdd87b850": {
+        "id": "AS_Map_192f060d962b4976848ad14fdd87b850",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "location"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__ea150d4c21804a5db5e209bb1fca3c65",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onPinClickCallBck(maid,loc1);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

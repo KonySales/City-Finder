@@ -1,0 +1,20 @@
+{
+    "AS_Map_e9d276c1a8cc4a9ca229cb892619e087": {
+        "id": "AS_Map_e9d276c1a8cc4a9ca229cb892619e087",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "location"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__61fcfd2b9f3347c4a7e562bead23464d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//onPinClickCallBck(frmMap.Map,mylocationData);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

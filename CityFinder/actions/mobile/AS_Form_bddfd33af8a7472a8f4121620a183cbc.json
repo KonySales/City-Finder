@@ -1,0 +1,13 @@
+{
+    "AS_Form_bddfd33af8a7472a8f4121620a183cbc": {
+        "id": "AS_Form_bddfd33af8a7472a8f4121620a183cbc",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__248779ef051946ffab43dc2aea36a003",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "afterSplash()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Segment_7bd55d8b8b3d42bbb7cd6ebd52e51a26": {
+        "id": "AS_Segment_7bd55d8b8b3d42bbb7cd6ebd52e51a26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___46ea06773c0e4b55b2b8e20881471982",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDetails",
+            "formKUID": "66587429ca994753b41b02336312dd37",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

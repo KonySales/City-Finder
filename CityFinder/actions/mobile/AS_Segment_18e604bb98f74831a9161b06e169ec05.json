@@ -1,0 +1,23 @@
+{
+    "AS_Segment_18e604bb98f74831a9161b06e169ec05": {
+        "id": "AS_Segment_18e604bb98f74831a9161b06e169ec05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__e3af1aace97247c78d927bb44f245091",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onClickRestaurantList();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

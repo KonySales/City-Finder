@@ -1,0 +1,17 @@
+{
+    "applicableblockedUIWidget": "FlexContainer",
+    "background_color": "ffffff7f",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "000000ff",
+    "font_name": "Arial",
+    "font_size": 100,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "isDefaultSkin": false,
+    "kuid": "s7429fd12fc84ae39759d540b15b5b38",
+    "wType": "Blocked UI"
+}

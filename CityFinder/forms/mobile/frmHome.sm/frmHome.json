@@ -1,0 +1,136 @@
+{
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s52d1cbc660f45fe9cabebad9be6e337",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.AndroidScrollFlexFormProperty",
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "needAppMenu": false,
+        "onDeviceBack": "AS_Form_72a15f8acf2e468d919f41227a867df9",
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer047da623d9f314a"
+    ],
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone6",
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "id": "frmHome",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formAnimation": 3
+    },
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "needAppMenu": false,
+        "psp": {
+            "inputAccessoryViewType": 3,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": false
+            }
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "fff83aad153d4b7dacc5ae9a32a6fb26",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "postshow": "AS_Form_bc8220a7b88e4993a6ce92855abc9ac7",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAScrollFlexFormProperty",
+        "inTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAAndroidScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPABBScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAIPhoneScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.SPAWinPhone8ScrollFlexFormProperty",
+        "needAppMenu": false
+    },
+    "titleBarSkin": "sf85a92e30be43efa345e3cf76b5ca2d",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windowsoftinputmode": 2,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.WinPhone8ScrollFlexFormProperty",
+        "inTransitionConfig": {
+            "inTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        },
+        "needAppMenu": false
+    }
+}
