@@ -1,4 +1,4 @@
-# City-Finder
+# City Finder
 
 ===========
 This is a sample application which enables people to search for service providers in a city. The service providers include services like – restaurants, parking, bike rentals, etc. One can use this app as a baseline or even leverage components from the sample application to build an app that will address the end to end scenario of finding services in a City. 
